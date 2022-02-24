@@ -1,6 +1,1 @@
-# regex__
-
-
-gagagaga
----------------
-papa
+# regex
